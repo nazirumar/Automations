@@ -1,0 +1,6 @@
+pyautogui
+psutil
+pygetwindow
+SpeechRecognition
+pyttsx3
+pyaudio
